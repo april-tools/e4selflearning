@@ -100,7 +100,7 @@ Please see `--help` for all available options.
 
 ## Open-access datasets recording with an Empatica E4
 
-We herewith acknowledge and list the open-access datasets recording with an [Emaptica E4](https://support.empatica.com/hc/en-us/articles/202581999-E4-wristband-technical-specifications) which were used for self-supervised pre-training:
+We herewith acknowledge and list the open-access datasets recording with an [Empatica E4](https://support.empatica.com/hc/en-us/articles/202581999-E4-wristband-technical-specifications) which were used for self-supervised pre-training:
 - [ADARP](https://arxiv.org/abs/2206.14568) by Sah et al. 2022
 - [BID IDEAS Lab](https://www.nature.com/articles/s41746-021-00465-w) by Bent et al. 2021
 - [In-Gauge En-Gage](https://www.nature.com/articles/s41597-022-01347-w) by Gao et al. 2022
