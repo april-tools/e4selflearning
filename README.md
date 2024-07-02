@@ -98,9 +98,10 @@ python train_ann.py --task_mode 1 --path2pretraining_res runs/masked_prediction_
 
 Please see `--help` for all available options. 
 
-## Open-access datasets recording with an Empatica E4
+## Data Availability - E4SelfLearning
 
-We herewith acknowledge and list the open-access datasets recording with an [Empatica E4](https://support.empatica.com/hc/en-us/articles/202581999-E4-wristband-technical-specifications) which were used for self-supervised pre-training:
+
+The E4SelfLearning collection is available to download from: [huggingface.co/datasets/FcmC/E4SelfLearning](https://huggingface.co/datasets/FcmC/E4SelfLearning/tree/main). We herewith acknowledge and list the open-access datasets recording with an [Empatica E4](https://support.empatica.com/hc/en-us/articles/202581999-E4-wristband-technical-specifications) comprising the E4SelfLearning collection:
 - [ADARP](https://arxiv.org/abs/2206.14568) by Sah et al. 2022
 - [BID IDEAS Lab](https://www.nature.com/articles/s41746-021-00465-w) by Bent et al. 2021
 - [In-Gauge En-Gage](https://www.nature.com/articles/s41597-022-01347-w) by Gao et al. 2022
@@ -112,3 +113,5 @@ We herewith acknowledge and list the open-access datasets recording with an [Emp
 - [WEEE](https://www.nature.com/articles/s41597-022-01643-5) by Gashi et al. 2022
 - [WESAD](https://dl.acm.org/doi/10.1145/3242969.3242985) by Schmidt et al. 2018
 - [WESD](https://ieeexplore.ieee.org/abstract/document/9744065) by Amin et al. 2022
+
+
