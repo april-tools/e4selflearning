@@ -1,13 +1,20 @@
 # Self-supervised learning for personal sensing in mood disorders
 
-This codebase was developed by [Filippo Corponi](https://github.com/FilippoCMC) and [Bryan M. Li](https://github.com/bryanlimy). It is part of the paper ''[Wearable data from students, teachers or subjects with alcohol use disorder help detect acute mood episodes via self-supervised learning](https://arxiv.org/abs/2311.04215)''. If you find this code or any of the ideas in the paper useful, please consider citing:
+This codebase was developed by [Filippo Corponi](https://github.com/FilippoCMC) and [Bryan M. Li](https://github.com/bryanlimy). It is part of the paper ''[Wearable Data From Subjects Playing Super Mario, Taking University Exams, or Performing Physical Exercise Help Detect Acute Mood Disorder Episodes via Self-Supervised Learning: Prospective, Exploratory, Observational Study](https://mhealth.jmir.org/2024/1/e55094)'', published in JMIR mHealth and uHealth. If you find this code or any of the ideas in the paper useful, please consider citing:
 
 ```bibtex
-@article{corponi2023wearable,
-  title={Wearable data from students, teachers or subjects with alcohol use disorder help detect acute mood episodes via self-supervised learning},
-  author={Corponi, Filippo and Li, Bryan M and Anmella, Gerard and Valenzuela-Pascual, Cl{\`a}udia and Mas, Ariadna and Pacchiarotti, Isabella and Valent{\'\i}, Marc and Grande, Iria and Benabarre, Antonio and Garriga, Marina and others},
-  journal={arXiv preprint arXiv:2311.04215},
-  year={2023}
+@article{corponi2024wearable,
+    author="Corponi, Filippo and Li, Bryan M and Anmella, Gerard and Valenzuela-Pascual, Cl{\`a}udia and Mas, Ariadna and Pacchiarotti, Isabella and Valent{\'i}, Marc and Grande, Iria and Benabarre, Antoni and Garriga, Marina and Vieta, Eduard and Young, Allan H and Lawrie, Stephen M and Whalley, Heather C and Hidalgo-Mazzei, Diego and Vergari, Antonio",
+    title="Wearable Data From Subjects Playing Super Mario, Taking University Exams, or Performing Physical Exercise Help Detect Acute Mood Disorder Episodes via Self-Supervised Learning: Prospective, Exploratory, Observational Study",
+    journal="JMIR mHealth and uHealth",
+    year="2024",
+    month="Jul",
+    day="17",
+    volume="12",
+    pages="e55094",
+    issn="2291-5222",
+    doi="10.2196/55094",
+    url="https://mhealth.jmir.org/2024/1/e55094",
 }
 ```
 
